@@ -5,3 +5,8 @@
 
 
 [markdown cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+
+## computer vision
+[Learning Deep Representations of Fine-grained Visual Descriptions](http://arxiv.org/abs/1605.05395)
