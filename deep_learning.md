@@ -9,4 +9,4 @@
 
 
 ## computer vision
-[Learning Deep Representations of Fine-grained Visual Descriptions](http://arxiv.org/abs/1605.05395)
+1. [Learning Deep Representations of Fine-grained Visual Descriptions](http://arxiv.org/abs/1605.05395)
