@@ -12,4 +12,4 @@
 1. [Learning Deep Representations of Fine-grained Visual Descriptions](http://arxiv.org/abs/1605.05395)
 
 2. [Wide Residual Networks](http://arxiv.org/abs/1605.07146)
-   .. * [code in torch](https://github.com/wavelets/wide-residual-networks) 
+..* [code in torch](https://github.com/wavelets/wide-residual-networks) 
