@@ -1,4 +1,5 @@
-# Datasets, their evaluation strategy and best reported result( May not contain the best reported result) 
+# Datasets, their evaluation strategy and best reported result
+(May not contain the best reported result) 
 
 ## [Mit indoor 67](http://web.mit.edu/torralba/www/indoor.html)
 [Indoor dataset link](http://groups.csail.mit.edu/vision/LabelMe/NewImages/indoorCVPR_09.tar)
