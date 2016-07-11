@@ -23,4 +23,14 @@
 
 
 ### results
-1[Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **94.5** based on fusion architecture(roughly image + segmentation or image and context)
+1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **94.5** based on fusion architecture(roughly image + segmentation or image and context)
+
+
+## Caltech-UCSD Birds 200-2010(CUB2010)(Welinder et al. 2010)
+
+### Evaluation
+1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **41.8** based on fusion architecture(roughly image + segmentation or image and context)
+
+##  Caltech-UCSD Birds 200-2011(CUB2011)(Wah et al. 2011)
+
+1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **76.9** based on fusion architecture(roughly image + segmentation or image and context)
