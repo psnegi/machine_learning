@@ -15,3 +15,12 @@
 1 Best ONE ** 69.61**  and ONE+SVM **70.13** [related paper](http://bigml.cs.tsinghua.edu.cn/~lingxi/PDFs/Xie_ICMR15_ONE.pdf). *Test spilt is not clear from the papers apart from SUN 397 where traing and test both are N = 397*50 =20K *
 
 
+##[Oxford flower 102](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+
+
+### Evaluation
+
+
+
+### results
+1[Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **94.5** based on fusion architecture(roughly image + segmentation or image and ocntext)
