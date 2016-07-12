@@ -17,11 +17,16 @@
 
 ##[Oxford flower 17](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
-### Evaluation
+
 
 ### results
 1 [Flower Classification with Few Training Examples via Recalling Visual Patterns from Deep CNN](http://www.csie.ntu.edu.tw/~r01944012/cvgip15_flower.pdf)
  reports **96.84**. They use predicted images from imagenet model to augment data set and fine tune on augmented dataset.
+#### Evaluation
+It contains 17 categories and each class consists of 80 images, resulting in
+a total of 1,360 images. The dataset is split into the training
+(40 images per class), validation (20 images per class), and
+test (20 images per class) sets.
 
 2 [Sparse Representation Based Fisher Discrimination Dictionary Learning for Image Classification](http://link.springer.com/article/10.1007/s11263-014-0722-8)
 reports **97.8 +- .7**  based an dictionary learning and assumes that images are well segmented.
@@ -37,7 +42,9 @@ reports **97.8 +- .7**  based an dictionary learning and assumes that images are
 1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **94.5** based on fusion architecture(roughly image + segmentation or image and context)
 2 [Flower Classification with Few Training Examples via Recalling Visual Patterns from Deep CNN](http://www.csie.ntu.edu.tw/~r01944012/cvgip15_flower.pdf)
  reports **90.85**. They use predicted images from imagenet model to augment data set and fine tune on augmented dataset.
-
+#### Evaluation
+It contains 102 categories and each class consists of 40 ∼ 258 images.
+This dataset contains a total of 8,189 images. Similar to the 17 category dataset, this larger one is also split into the training (10 images per class), validation (10 images per class), and test (a total of 6,149 images) sets.
 
 ## Caltech-UCSD Birds 200-2010(CUB2010)(Welinder et al. 2010)
 
