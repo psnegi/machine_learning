@@ -24,7 +24,7 @@
  reports **96.84**. They use predicted images from imagenet model to augment data set and fine tune on augmented dataset.
 
 2 [Sparse Representation Based Fisher Discrimination Dictionary Learning for Image Classification](http://link.springer.com/article/10.1007/s11263-014-0722-8)
-reports $97.8  \pm  .7$ based an dictionary learning and assumes that images are well segmented.
+reports $97.8 +- .7  \pm  .7$ based an dictionary learning and assumes that images are well segmented.
 
 
 ##[Oxford flower 102](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
