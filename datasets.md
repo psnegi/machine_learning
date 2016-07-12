@@ -22,6 +22,7 @@
 ### results
 1 [Flower Classification with Few Training Examples via Recalling Visual Patterns from Deep CNN](http://www.csie.ntu.edu.tw/~r01944012/cvgip15_flower.pdf)
  reports **96.84**. They use predicted images from imagenet model to augment data set and fine tune on augmented dataset.
+
 2 [Sparse Representation Based Fisher Discrimination Dictionary Learning for Image Classification](http://link.springer.com/article/10.1007/s11263-014-0722-8)
 reports **97.8 +-.7 ** based an dictionary learning and assumes that images are well segmented.
 
