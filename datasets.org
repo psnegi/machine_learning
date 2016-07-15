@@ -60,7 +60,7 @@ This dataset contains a total of 8,189 images. Similar to the 17 category datase
 10 classes, 73257 digits for training, 26032 digits for testing, and 531131 additional.
 Come in two format
 - Format1 check website
-- Format2 ]]cropped digit of size 32X32X32 in mnist style
+- Format2 ]]cropped digit of size 32X32X3 in mnist style
 *** Evaluation
     
     test and trainset are given. can use additional images though
