@@ -1,9 +1,9 @@
-# Datasets, their evaluation strategy and best reported result
+* Datasets, their evaluation strategy and best reported result
 (May not contain the best reported result) 
 
-## [Mit indoor 67](http://web.mit.edu/torralba/www/indoor.html)
+** [Mit indoor 67](http://web.mit.edu/torralba/www/indoor.html)
 [Indoor dataset link](http://groups.csail.mit.edu/vision/LabelMe/NewImages/indoorCVPR_09.tar)
-### Evaluation 
+*** Evaluation 
 1 As given in website
   * [TrainImages.txt:](http://web.mit.edu/torralba/www/TrainImages.txt) contains the file names of each training image. Total 67*80 images
 
@@ -11,18 +11,18 @@
 
 2 Other papers report creating random 10  train(80 images per class) and test (20 images per class)
 
-### result
+*** result
 1 Best ONE ** 69.61**  and ONE+SVM **70.13** [related paper](http://bigml.cs.tsinghua.edu.cn/~lingxi/PDFs/Xie_ICMR15_ONE.pdf). *Test spilt is not clear from the papers apart from SUN 397 where traing and test both are N = 397*50 =20K *
 
 
-##[Oxford flower 17](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+**[Oxford flower 17](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
 
 
-### results
+*** results
 1 [Flower Classification with Few Training Examples via Recalling Visual Patterns from Deep CNN](http://www.csie.ntu.edu.tw/~r01944012/cvgip15_flower.pdf)
  reports **96.84**. They use predicted images from imagenet model to augment data set and fine tune on augmented dataset.
-#### Evaluation
+**** Evaluation
 It contains 17 categories and each class consists of 80 images, resulting in
 a total of 1,360 images. The dataset is split into the training
 (40 images per class), validation (20 images per class), and
@@ -32,25 +32,25 @@ test (20 images per class) sets.
 reports **97.8 +- .7**  based an dictionary learning and assumes that images are well segmented.
 
 
-##[Oxford flower 102](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+**[Oxford flower 102](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
 
-### Evaluation
+*** Evaluation
 
 
-### results
+*** results
 1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **94.5** based on fusion architecture(roughly image + segmentation or image and context)
 2 [Flower Classification with Few Training Examples via Recalling Visual Patterns from Deep CNN](http://www.csie.ntu.edu.tw/~r01944012/cvgip15_flower.pdf)
  reports **90.85**. They use predicted images from imagenet model to augment data set and fine tune on augmented dataset.
-#### Evaluation
+**** Evaluation
 It contains 102 categories and each class consists of 40 ∼ 258 images.
 This dataset contains a total of 8,189 images. Similar to the 17 category dataset, this larger one is also split into the training (10 images per class), validation (10 images per class), and test (a total of 6,149 images) sets.
 
-## Caltech-UCSD Birds 200-2010(CUB2010)(Welinder et al. 2010)
+** Caltech-UCSD Birds 200-2010(CUB2010)(Welinder et al. 2010)
 
-### Evaluation
+*** Evaluation
 1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **41.8** based on fusion architecture(roughly image + segmentation or image and context)
 
-##  Caltech-UCSD Birds 200-2011(CUB2011)(Wah et al. 2011)
+**  Caltech-UCSD Birds 200-2011(CUB2011)(Wah et al. 2011)
 
 1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **76.9** based on fusion architecture(roughly image + segmentation or image and context)
