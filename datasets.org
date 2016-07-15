@@ -11,15 +11,15 @@
 
 2 Other papers report creating random 10  train(80 images per class) and test (20 images per class)
 
-*** result
+*** Result
 1 Best ONE ** 69.61**  and ONE+SVM **70.13** [related paper](http://bigml.cs.tsinghua.edu.cn/~lingxi/PDFs/Xie_ICMR15_ONE.pdf). *Test spilt is not clear from the papers apart from SUN 397 where traing and test both are N = 397*50 =20K *
 
 
-**[Oxford flower 17](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+** [Oxford flower 17](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
 
 
-*** results
+*** Results
 1 [Flower Classification with Few Training Examples via Recalling Visual Patterns from Deep CNN](http://www.csie.ntu.edu.tw/~r01944012/cvgip15_flower.pdf)
  reports **96.84**. They use predicted images from imagenet model to augment data set and fine tune on augmented dataset.
 **** Evaluation
@@ -38,7 +38,7 @@ reports **97.8 +- .7**  based an dictionary learning and assumes that images are
 *** Evaluation
 
 
-*** results
+*** Results
 1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **94.5** based on fusion architecture(roughly image + segmentation or image and context)
 2 [Flower Classification with Few Training Examples via Recalling Visual Patterns from Deep CNN](http://www.csie.ntu.edu.tw/~r01944012/cvgip15_flower.pdf)
  reports **90.85**. They use predicted images from imagenet model to augment data set and fine tune on augmented dataset.
@@ -54,3 +54,20 @@ This dataset contains a total of 8,189 images. Similar to the 17 category datase
 **  Caltech-UCSD Birds 200-2011(CUB2011)(Wah et al. 2011)
 
 1 [Two-Stream Contextualized CNN forFine-Grained Image Classification] (https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11772/12231) reports **76.9** based on fusion architecture(roughly image + segmentation or image and context)
+
+** [[https://cs.stanford.edu/~acoates/stl10/][Standford The Street View House Numbers (SVHN) Dataset
+10 classes, 73257 digits for training, 26032 digits for testing, and 531131 additional.
+Come in two format
+- Format1 check website
+- Format2 ]]cropped digit of size 32X32X32 in mnist style
+*** Evaluation
+    
+    test and trainset are given. can use additional images though
+*** Result
+check [[http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#5356484e][SVHN Complete list leader board]]
+| Method                                                                                  | Result in % |
+|-----------------------------------------------------------------------------------------+-------------|
+| [[http://arxiv.org/abs/1509.08985][Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree]] |        1.69 |
+|-----------------------------------------------------------------------------------------+-------------|
+| [[http://arxiv.org/abs/1511.05635][Competitive Multi-scale Convolution]]                                                     |        7.76 |
+
