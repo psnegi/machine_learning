@@ -67,8 +67,15 @@ check [[http://rodrigob.github.io/are_we_there_yet/build/classification_datasets
 |-----------------------------------------------------------------------------------------+-------------|
 | [[http://arxiv.org/abs/1511.05635][Competitive Multi-scale Convolution]]                                                     |        7.76 |
 
+* Caltech 101
+[[http://www.robots.ox.ac.uk/~vgg/publications/2014/Chatfield14/chatfield14.pdf][Return of the Devil in the Details: Delving Deep into Convolutional Nets]] 
+reports *88.54 ± 0.33*
 
+** Caltech 256
 
+*** result
+[[http://www.robots.ox.ac.uk/~vgg/publications/2014/Chatfield14/chatfield14.pdf][Return of the Devil in the Details: Delving Deep into Convolutional Nets]] reports
+*78.82 ± 0.31*
 * Some summary based on 2014 report
 [[http://cs.nyu.edu/~sermanet/papers/Deep_ConvNets_for_Vision-Results.pdf][Deep ConvNets: “astounding” baseline for vision(Pierre SermanetApril 6, 2014
 )]]
