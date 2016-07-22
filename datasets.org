@@ -67,3 +67,9 @@ check [[http://rodrigob.github.io/are_we_there_yet/build/classification_datasets
 |-----------------------------------------------------------------------------------------+-------------|
 | [[http://arxiv.org/abs/1511.05635][Competitive Multi-scale Convolution]]                                                     |        7.76 |
 
+
+
+* Some summary based on 2014 report
+  [[http://cs.nyu.edu/~sermanet/papers/Deep_ConvNets_for_Vision-Results.pdf][Pierre SermanetApril 6, 2014
+
+]]
