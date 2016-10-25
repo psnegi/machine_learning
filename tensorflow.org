@@ -1,0 +1,6 @@
+* tensorflow
+** Similar other repo
+- [https://github.com/jtoy/awesome-tensorflow][https://github.com/jtoy/awesome-tensorflow]
+
+* tensorboard
+- http://www.slideshare.net/hunkim/tensor-board

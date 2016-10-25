@@ -1,0 +1,5 @@
+* Python
+  This is a collection of useful python documentation from random web search.
+** Scientific python libararies
+*** scipy
+[[http://scipy-cookbook.readthedocs.io/][- SciPy Cookbook]]
