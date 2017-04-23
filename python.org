@@ -1,6 +1,6 @@
 * Python
 
-** tools
+** Tools
    - [[https://github.com/pachyderm/pachyderm/tree/master/doc][pachyderm]]
 
 ** Blogs
