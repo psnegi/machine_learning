@@ -1,7 +1,6 @@
-* Calculus
-** Differentiation
+* Differentiation
 - [[https://see.stanford.edu/materials/lsocoee364b/01-subgradients_notes.pdf][subgradient by S. Boyd and L. Vandenberghe]]
-** Matrix Calculus
+* Matrix Calculus
 *** Differentiatin
 - [[http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf][Matrix Calculus by  RJ Barnes]]
 **** TODO How to handle differentiation when domain, image in a matrix (Notation too)

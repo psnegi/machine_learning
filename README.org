@@ -1,3 +1,9 @@
 * [[./deep_learning.org][Deep Learning]]
 
-* [[./python.org][python]]
+** [[./datasets.org][Datasets(mostly for deep learning) and benchmark results]]
+
+* [[./datascience.org][Data Science]]
+
+* [[./python.org][Python]]
+
+* [[./related_math.org][Mathematics]]
