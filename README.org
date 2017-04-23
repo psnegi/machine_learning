@@ -1,0 +1,3 @@
+* [[./deep_learning.org][Deep Learning]]
+
+* [[./python.org][python]]
