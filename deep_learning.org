@@ -1,8 +1,9 @@
 * Deep learning papers
-** Wavelet  and deep learning
-  - [[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=182697&tag=1][Analysis and synthesis of feefforward neural networkss using discrete affine wavelet transformations]]
-
-
+** Blogs, Git etc.
+    - [[http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html][Awesome Deep Learning: Most Cited Deep Learning Papers]]
+    - [[https://github.com/kjw0612/awesome-deep-vision][A curated list of deep learning resources for computer vision]]
+    - [[https://github.com/kjw0612/awesome-rnn][Recurrent Neural Network - A curated list of resources dedicated to RNN]]
+      
 ** Vision
   - [[http://arxiv.org/abs/1605.05395][Learning deep representations of fine grained visual descriptions]]
   - [[http://arxiv.org/abs/1605.07146][Wide Residual Networks]]
@@ -13,3 +14,6 @@
  - [[https://arxiv.org/pdf/1611.07004v1.pdf][Image-to-Image Translation with Conditional Adversarial Networks]]
    + tensorflow implementation [[https://github.com/affinelayer/pix2pix-tensorflow][link]]
    + torch implementation [[https://github.com/phillipi/pix2pix][link]]
+
+** Wavelet  and deep learning
+  - [[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=182697&tag=1][Analysis and synthesis of feefforward neural networkss using discrete affine wavelet transformations]]

@@ -1,3 +1,5 @@
+*Collection of resources around www*
+
 * [[./deep_learning.org][Deep Learning]]
 
 ** [[./datasets.org][Datasets(mostly for deep learning) and benchmark results]]
