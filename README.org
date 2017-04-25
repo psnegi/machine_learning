@@ -4,6 +4,7 @@
 
 ** [[./datasets.org][Datasets(mostly for deep learning) and benchmark results]]
 
+* [[./machine_learning.org][Machine learning]]
 * [[./datascience.org][Data Science]]
 
 * [[./python.org][Python]]
