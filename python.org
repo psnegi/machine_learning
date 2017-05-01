@@ -5,3 +5,7 @@
 
 ** Blogs
    - [[https://opensource.com/article/17/4/grok-gil][Grok the GIL: How to write fast and thread-safe Python]]
+   - [[https://martin-thoma.com/configuration-files-in-python/][Configuration files in Python]]
+   - [[http://python-notes.curiousefficiency.org/en/latest/index.html][Nick Coghlan’s Python Notes]]
+  
+

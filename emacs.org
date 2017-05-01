@@ -1,0 +1,14 @@
+* Links for emacs and related packges
+- Why Learn Emacs? http://www.howardism.org/Technical/Em... 
+- My Getting Started Guide: http://www.howardism.org/Technical/Em...
+- Start with Aquamacs, a Mac-ish Emacs version: http://aquamacs.org
+- Install Prelude for good IDE support: https://github.com/bbatsov/prelude
+- Mastering Emacs may take Ten Years: http://t.co/4BQuIzJIDr
+- Use KeyRemap4MacBook to gain a new Control key: https://pqrs.org/macosx/keyremap4macb... 
+- Online Emacs Tutorials: https://www.youtube.com/watch?v=MRYzPWnk2mE
+- Check out http://orgmode.org org-mode
+- Mastering the Emacs Shell: http://www.howardism.org/Technical/Emacs/eshell-fun.html
+- https://github.com/magit/magit/blob/master/README.md
+- https://github.com/magnars/expand-region.el
+- https://github.com/magnars/multiple-cursors.el
+- https://github.com/smihica/emmet-mode for quickly writing HTML

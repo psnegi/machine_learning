@@ -7,6 +7,7 @@
 * [[./machine_learning.org][Machine learning]]
 * [[./datascience.org][Data Science]]
 
-* [[./python.org][Python]]
-
 * [[./related_math.org][Mathematics]]
+* [[./python.org][Python]]
+* [[./emacs.org][emacs]]
+
