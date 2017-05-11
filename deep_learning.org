@@ -8,12 +8,14 @@
   - [[http://arxiv.org/abs/1605.05395][Learning deep representations of fine grained visual descriptions]]
   - [[http://arxiv.org/abs/1605.07146][Wide Residual Networks]]
     + [[https://github.com/wavelets/wide-residual-networks][torch code link]]
-
     
 ** GAN
  - [[https://arxiv.org/pdf/1611.07004v1.pdf][Image-to-Image Translation with Conditional Adversarial Networks]]
    + tensorflow implementation [[https://github.com/affinelayer/pix2pix-tensorflow][link]]
    + torch implementation [[https://github.com/phillipi/pix2pix][link]]
 
+** Optimizers
+   - [[http://sebastianruder.com/optimizing-gradient-descent/][An overview of gradient descent optimization algorithms]]
+  
 ** Wavelet  and deep learning
   - [[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=182697&tag=1][Analysis and synthesis of feefforward neural networkss using discrete affine wavelet transformations]]
