@@ -13,6 +13,10 @@
  - [[https://arxiv.org/pdf/1611.07004v1.pdf][Image-to-Image Translation with Conditional Adversarial Networks]]
    + tensorflow implementation [[https://github.com/affinelayer/pix2pix-tensorflow][link]]
    + torch implementation [[https://github.com/phillipi/pix2pix][link]]
+ - [[http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/][Generative Adversarial Nets in TensorFlow]]
+
+** VAE 
+   - [[https://arxiv.org/abs/1606.05908][Tutorial on Variational Autoencoders]]
 
 ** Optimizers
    - [[http://sebastianruder.com/optimizing-gradient-descent/][An overview of gradient descent optimization algorithms]]
