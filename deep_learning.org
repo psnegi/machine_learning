@@ -14,7 +14,7 @@
    + tensorflow implementation [[https://github.com/affinelayer/pix2pix-tensorflow][link]]
    + torch implementation [[https://github.com/phillipi/pix2pix][link]]
  - [[http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/][Generative Adversarial Nets in TensorFlow]]
-
+ - [[https://arxiv.org/pdf/1701.07875.pdf][Wasserstein GAN]] stable cousin of basic GAN
 ** VAE 
    - [[https://arxiv.org/abs/1606.05908][Tutorial on Variational Autoencoders]]
 
