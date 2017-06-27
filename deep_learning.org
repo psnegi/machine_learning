@@ -18,7 +18,7 @@
     - [[https://arxiv.org/pdf/1701.07875.pdf][Wasserstein GAN]] stable cousin of basic GAN
 *** Code and paper
     - [[https://github.com/wiseodd/generative-models][Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow]]
-    [[https://github.com/zhangqianhui/AdversarialNetsPapers][- AdversarialNetsPapers]]
+    - [[https://github.com/zhangqianhui/AdversarialNetsPapers][   AdversarialNetsPapers]]
 *** Related
     - [[http://faculty.washington.edu/sburden/_papers/RatliffBurden2016tac.pdf][On the Characterization of Local Nash Equilibriain Continuous Games]]
       
