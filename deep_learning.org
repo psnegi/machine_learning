@@ -10,18 +10,18 @@
     + [[https://github.com/wavelets/wide-residual-networks][torch code link]]
     
 ** GAN(implicit model density, can have explicit density formulation)
- - [[https://arxiv.org/pdf/1611.07004v1.pdf][Image-to-Image Translation with Conditional Adversarial Networks]]
-   + tensorflow implementation [[https://github.com/affinelayer/pix2pix-tensorflow][link]]
-   + torch implementation [[https://github.com/phillipi/pix2pix][link]]
- - [[http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/][Generative Adversarial Nets in TensorFlow]]
- - [[https://arxiv.org/pdf/1701.07875.pdf][Wasserstein GAN]] stable cousin of basic GAN
+*** Random
+    - [[https://arxiv.org/pdf/1611.07004v1.pdf][Image-to-Image Translation with Conditional Adversarial Networks]]
+      + tensorflow implementation [[https://github.com/affinelayer/pix2pix-tensorflow][link]]
+      + torch implementation [[https://github.com/phillipi/pix2pix][link]]
+    - [[http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/][Generative Adversarial Nets in TensorFlow]]
+    - [[https://arxiv.org/pdf/1701.07875.pdf][Wasserstein GAN]] stable cousin of basic GAN
 *** Code and paper
- - [[https://github.com/wiseodd/generative-models][Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow]]
-
+    - [[https://github.com/wiseodd/generative-models][Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow]]
+    [[https://github.com/zhangqianhui/AdversarialNetsPapers][AdversarialNetsPapers]]
 *** Related
     - [[http://faculty.washington.edu/sburden/_papers/RatliffBurden2016tac.pdf][On the Characterization of Local Nash Equilibriain Continuous Games]]
-
-
+      
 ** Generative Moment Matching Networks (implicit model density)
    - [[http://proceedings.mlr.press/v37/li15.pdf][Generative Moment Matching Networks]] 
 ** VAE 
