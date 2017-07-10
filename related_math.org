@@ -9,3 +9,5 @@
 - [[https://arxiv.org/pdf/1201.3424v1.pdf][he Spectral Theory of Tensors]]
 - [[https://hal.inria.fr/file/index/docid/923886/filename/spmag17-hal.pdf][Tensors: a Brief Introduction]]
 - [[https://projecteuclid.org/download/pdf_1/euclid.em/1047262360][The Tensor Product of PolynomialsRuth Schwingel]]
+- [[https://link.springer.com/chapter/10.1007%252F978-3-540-88378-4_2][Tensors, Polynomials and Models for Directional Data]]
+- [[http://people.csail.mit.edu/madhu/ST12/][Algebra and Computation (MIT 6.S897)]]
