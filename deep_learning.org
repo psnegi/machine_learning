@@ -1,5 +1,6 @@
-* Deep learning papers
+* Deep learning
 ** Blogs, Git etc.
+    - [[https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524][Curated List of AI and Machine Learning]]  Robbie Allen
     - [[http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html][Awesome Deep Learning: Most Cited Deep Learning Papers]]
     - [[https://github.com/kjw0612/awesome-deep-vision][A curated list of deep learning resources for computer vision]]
     - [[https://github.com/kjw0612/awesome-rnn][Recurrent Neural Network - A curated list of resources dedicated to RNN]]
