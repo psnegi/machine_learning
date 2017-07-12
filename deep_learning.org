@@ -33,3 +33,6 @@
   
 ** Wavelet  and deep learning
   - [[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=182697&tag=1][Analysis and synthesis of feefforward neural networkss using discrete affine wavelet transformations]]
+** Class
+  - [[http://elmos.scripts.mit.edu/mathofdeeplearning/mathematical-aspects-of-deep-learning-intro/][Mathematical Aspects of Deep Learning]] Elchanan Mossel
+

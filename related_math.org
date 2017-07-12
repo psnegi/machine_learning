@@ -11,3 +11,5 @@
 - [[https://projecteuclid.org/download/pdf_1/euclid.em/1047262360][The Tensor Product of PolynomialsRuth Schwingel]]
 - [[https://link.springer.com/chapter/10.1007%252F978-3-540-88378-4_2][Tensors, Polynomials and Models for Directional Data]]
 - [[http://people.csail.mit.edu/madhu/ST12/][Algebra and Computation (MIT 6.S897)]]
+* FFT
+  - [[http://www.sam.math.ethz.ch/~hiptmair/Seminars/FFT/][Fast Fourier Transform And generalizations]]
