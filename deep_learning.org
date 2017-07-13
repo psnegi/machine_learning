@@ -12,6 +12,7 @@
     
 ** GAN (implicit model density, can have explicit density formulation)
 *** Random
+    - [[https://arxiv.org/pdf/1702.01983.pdf][FACE AGING WITH CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS]]
     - [[https://arxiv.org/pdf/1611.07004v1.pdf][Image-to-Image Translation with Conditional Adversarial Networks]]
       + tensorflow implementation [[https://github.com/affinelayer/pix2pix-tensorflow][link]]
       + torch implementation [[https://github.com/phillipi/pix2pix][link]]
@@ -26,6 +27,7 @@
 ** Generative Moment Matching Networks (implicit model density)
    - [[http://proceedings.mlr.press/v37/li15.pdf][Generative Moment Matching Networks]] 
 ** VAE 
+   - [[https://arxiv.org/pdf/1512.00570.pdf][Attribute2Image: Conditional Image Generationfrom Visual Attributes]]
    - [[https://arxiv.org/abs/1606.05908][Tutorial on Variational Autoencoders]]
 
 ** Optimizers
