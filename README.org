@@ -8,6 +8,6 @@
 * [[./datascience.org][Data Science]]
 
 * [[./related_math.org][Mathematics]]
-* [[./python.org][Python]]
+* [[./computer_language.org][Programming etc.]]
 * [[./emacs.org][emacs]]
 
