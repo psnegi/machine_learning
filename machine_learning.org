@@ -3,6 +3,7 @@
   - [[https://github.com/masinoa/machine_learning][Python coded examples and documentation of machine learning algorithms]]
   - [[https://github.com/jakevdp/sklearn_tutorial][Materials for scikit-learn tutorial]]
   - [[https://github.com/rasbt/python-machine-learning-book][The "Python Machine Learning" book code repository and info resource]]
+  - [[https://github.com/probml/pyprobml][Python code for "Machine learning: a probabilistic perspective"]] Kevin Patrick Murphy
 * Tools
 - [[http://shogun-toolbox.org/][Shogun]] Unified and efficient Machine Learning
 
