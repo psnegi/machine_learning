@@ -1,2 +1,8 @@
+* Github Repos
+  - [[https://github.com/jdwittenauer/ipython-notebooks][A collection of IPython notebooks covering various topics]]
+  - [[https://github.com/masinoa/machine_learning][Python coded examples and documentation of machine learning algorithms]]
+  - [[https://github.com/jakevdp/sklearn_tutorial][Materials for scikit-learn tutorial]]
+  - [[https://github.com/rasbt/python-machine-learning-book][The "Python Machine Learning" book code repository and info resource]]
 * Tools
 - [[http://shogun-toolbox.org/][Shogun]] Unified and efficient Machine Learning
+
