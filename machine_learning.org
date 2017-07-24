@@ -10,3 +10,5 @@
 * Tools
 - [[http://shogun-toolbox.org/][Shogun]] Unified and efficient Machine Learning
 
+* Classes
+  - [[https://github.com/Wrosinski/MachineLearning_ResourcesCompilation][Machine Learning, Deep Learning resources compilation]]
