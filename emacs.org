@@ -1,4 +1,5 @@
 * EMACS basics 
+  - [[http://wikemacs.org/wiki/Python][Turn Emacs as full featured Python IDE ]]
   - [[https://kushaldas.in/posts/switching-to-emacs-land.html][Switching to Emacs land]] Kushal Das
 * Links for emacs and related packges
 - Why Learn Emacs? http://www.howardism.org/Technical/Em... 
