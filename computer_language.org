@@ -1,10 +1,11 @@
 
 * Coding interview
   - [[https://github.com/jwasham/coding-interview-university][coding]] jwasham
-
+    
 * Python
 
 ** Tools
+   - [[https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/][28 Jupyter Notebook tips, tricks and shortcuts]]
    - [[https://github.com/pachyderm/pachyderm/tree/master/doc][pachyderm]]
 
 ** Blogs
