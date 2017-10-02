@@ -1,4 +1,7 @@
 * Data science resource in the web
+** Book
+- [[https://ds8.gitbooks.io/textbook/content/][The Foundations of Data Science]]  By Ani Adhikari and John DeNero
+
 Some selected but random collection
 ** [[https://github.com/datasciencemasters/go][The Open-Source Data Science Masters]]
 created & maintained by @clarecorthell, founding partner of Luminant Data Science Consulting
