@@ -38,3 +38,6 @@
 ** Class
   - [[http://elmos.scripts.mit.edu/mathofdeeplearning/mathematical-aspects-of-deep-learning-intro/][Mathematical Aspects of Deep Learning]] Elchanan Mossel
 
+** Tensorflow, keras
+   - [[https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/][How-To: Multi-GPU training with Keras, Python, and deep learning]] by  Adrian Rosebrock on October 30, 2017
+
