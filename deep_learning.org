@@ -43,3 +43,6 @@
 ** Tensorflow, keras
    - [[https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/][How-To: Multi-GPU training with Keras, Python, and deep learning]] by  Adrian Rosebrock on October 30, 2017
 
+
+* NLP
+** [[https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-nlp.md][NLP resources, translation, summarization etc]]
