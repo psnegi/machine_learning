@@ -14,3 +14,5 @@
 - [[http://people.csail.mit.edu/madhu/ST12/][Algebra and Computation (MIT 6.S897)]]
 * FFT
   - [[http://www.sam.math.ethz.ch/~hiptmair/Seminars/FFT/][Fast Fourier Transform And generalizations]]
+* optimization
+  - [[./optimization.org][optimization and linear algebra]]

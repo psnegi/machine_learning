@@ -1,0 +1,3 @@
+* books
+- [[https://web.stanford.edu/~boyd/vmls/][Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares Stephen Boyd and Lieven Vandenberghe]]
+- [[http://stanford.edu/~boyd/cvxbook/][Convex Optimization – Boyd and Vandenberghe]]
