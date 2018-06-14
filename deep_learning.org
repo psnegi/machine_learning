@@ -1,4 +1,8 @@
 * Deep learning
+** Introduction
+ - [[https://arxiv.org/abs/1801.05894][Deep Learning: An Introduction for Applied Mathematicians]]
+ - [[https://cs.brown.edu/courses/csci1460/assets/files/deep-learning.pdf][Introduction to Deep Learning by Eugene Charniak]]
+ 
 ** Blogs, Git etc.
     - [[https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524][Curated List of AI and Machine Learning]]  Robbie Allen
     - [[http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html][Awesome Deep Learning: Most Cited Deep Learning Papers]]
@@ -44,6 +48,10 @@
 ** Tensorflow, keras
    - [[https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/][How-To: Multi-GPU training with Keras, Python, and deep learning]] by  Adrian Rosebrock on October 30, 2017
 
-
+** Tensor
+ - [[https://github.com/mtomassoli/tensor-differential-calculus][Matrix Differential Calculus with Tensors (for Machine Learning)]]
+ - [[https://arxiv.org/abs/1802.01528][The Matrix Calculus You Need For Deep Learning]]
+** Course
+ - [[https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/][EPFL course EE-559 “Deep Learning”, taught by François Fleuret]]
 * NLP
   - [[https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-nlp.md][NLP resources, translation, summarization etc]]
