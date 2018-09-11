@@ -1,6 +1,9 @@
 * tensorflow
 ** Similar other repo
 - [https://github.com/jtoy/awesome-tensorflow][https://github.com/jtoy/awesome-tensorflow]
+  
+** Tensorflow Data Validation (TFDV) 
+ - https://www.tensorflow.org/tfx/data_validation/get_started
 
 * tensorboard
 - http://www.slideshare.net/hunkim/tensor-board
