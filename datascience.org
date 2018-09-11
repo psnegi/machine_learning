@@ -11,7 +11,7 @@ created & maintained by @clarecorthell, founding partner of Luminant Data Scienc
 
 ** Visulaization Tools
 [[https://www.youtube.com/watch?v=RJVL80Gg3lA&list=UUtXKDgv1AVoG88PLl8nGXmw][Visualizing Data Using t-SNE]]
-
+- [[https://jovianlin.io/data-visualization-seaborn-part-1/][seaborn]]
 ** Website
 - [[http://fivethirtyeight.com/][FiveThirtyEight]]
 

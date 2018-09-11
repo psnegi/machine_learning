@@ -8,7 +8,9 @@
     - [[http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html][Awesome Deep Learning: Most Cited Deep Learning Papers]]
     - [[https://github.com/kjw0612/awesome-deep-vision][A curated list of deep learning resources for computer vision]]
     - [[https://github.com/kjw0612/awesome-rnn][Recurrent Neural Network - A curated list of resources dedicated to RNN]]
-      
+    - [[http://deeplearning.net/reading-list/][deep learning reading lsit]]
+
+  
 ** Vision
   - [[http://arxiv.org/abs/1605.05395][Learning deep representations of fine grained visual descriptions]]
   - [[http://arxiv.org/abs/1605.07146][Wide Residual Networks]]
@@ -55,3 +57,9 @@
 
 * NLP
   - [[https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-nlp.md][NLP resources, translation, summarization etc]]
+** courses
+  - [[http://web.stanford.edu/class/cs224n/][CS224n: Natural Language Processing with Deep Learning]]
+  -   
+** github
+ - [[https://github.com/sujitpal/eeap-examples][Code for Document Similarity on Reuters dataset]]
+   - [[http://cs231n.github.io/][ CS231n: Convolutional Neural Networks for Visual Recognition]]
