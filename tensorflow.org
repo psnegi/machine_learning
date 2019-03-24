@@ -1,9 +1,17 @@
 * tensorflow
+** Distribution Strategy
+  - https://github.com/tensorflow/tensorflow/blob/r1.8/tensorflow/contrib/distribute/README.md
+  - https://www.tensorflow.org/api_docs/python/tf/contrib/distribute/MirroredStrategy
+** Performance Guides
+   - https://www.tensorflow.org/performance/datasets_performance
+   - https://www.tensorflow.org/performance/performance_guide  
 ** Similar other repo
 - [https://github.com/jtoy/awesome-tensorflow][https://github.com/jtoy/awesome-tensorflow]
   
 ** Tensorflow Data Validation (TFDV) 
  - https://www.tensorflow.org/tfx/data_validation/get_started
+
+
 
 * tensorboard
 - http://www.slideshare.net/hunkim/tensor-board

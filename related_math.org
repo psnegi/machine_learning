@@ -1,8 +1,8 @@
 * Differentiation
   - [[https://see.stanford.edu/materials/lsocoee364b/01-subgradients_notes.pdf][subgradient by S. Boyd and L. Vandenberghe]]
-* Matrix Calculus
+* Matrix
   - [[http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf][Matrix Calculus by  RJ Barnes]]
-
+  - [[https://stats.stackexchange.com/questions/17109/measuring-entropy-information-patterns-of-a-2d-binary-matrix/17556#17556][Measuring entropy/ information/ patterns of a 2d binary matrix]] 
 * Tensors
 - [[https://arxiv.org/abs/1408.5664][Generating Polynomials and Symmetric Tensor Decompositions]]
 - [[https://arxiv.org/abs/1706.01738][Ehrhart tensor polynomials]]

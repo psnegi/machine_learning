@@ -57,9 +57,9 @@
 
 * NLP
   - [[https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-nlp.md][NLP resources, translation, summarization etc]]
-** courses
+** courses, thesis
   - [[http://web.stanford.edu/class/cs224n/][CS224n: Natural Language Processing with Deep Learning]]
-  -   
+  -  http://ruder.io/thesis/ 
 ** github
  - [[https://github.com/sujitpal/eeap-examples][Code for Document Similarity on Reuters dataset]]
    - [[http://cs231n.github.io/][ CS231n: Convolutional Neural Networks for Visual Recognition]]
