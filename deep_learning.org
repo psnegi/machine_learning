@@ -54,7 +54,8 @@
  - [[https://github.com/mtomassoli/tensor-differential-calculus][Matrix Differential Calculus with Tensors (for Machine Learning)]]
  - [[https://arxiv.org/abs/1802.01528][The Matrix Calculus You Need For Deep Learning]]
 
-
+** Software libraries
+   - [[https://github.com/facebookresearch/pythia][facebookresearch-pythia]]
 * NLP
   - [[https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-nlp.md][NLP resources, translation, summarization etc]]
 ** courses, thesis
