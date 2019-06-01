@@ -64,3 +64,6 @@
 ** github
  - [[https://github.com/sujitpal/eeap-examples][Code for Document Similarity on Reuters dataset]]
    - [[http://cs231n.github.io/][ CS231n: Convolutional Neural Networks for Visual Recognition]]
+** Kaggle posts
+  - [[https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle][pproaching (Almost) Any NLP Problem on Kaggle]]
+  
