@@ -1,8 +1,12 @@
 * Deep learning
+
 ** Introduction
  - [[https://arxiv.org/abs/1801.05894][Deep Learning: An Introduction for Applied Mathematicians]]
  - [[https://cs.brown.edu/courses/csci1460/assets/files/deep-learning.pdf][Introduction to Deep Learning by Eugene Charniak]]
  
+** Papers
+ - [[https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html?m=1][Exploring Weight Agnostic Neural Networks]]
+
 ** Blogs, Git etc.
     - [[https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524][Curated List of AI and Machine Learning]]  Robbie Allen
     - [[http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html][Awesome Deep Learning: Most Cited Deep Learning Papers]]
@@ -56,6 +60,8 @@
 
 ** Software libraries
    - [[https://github.com/facebookresearch/pythia][facebookresearch-pythia]]
+
+
 * NLP
   - [[https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-nlp.md][NLP resources, translation, summarization etc]]
 ** courses, thesis
